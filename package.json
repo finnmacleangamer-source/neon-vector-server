@@ -1,0 +1,13 @@
+
+{
+  "name": "neon-vector-server",
+  "version": "1.0.0",
+  "description": "NEON VECTOR multiplayer server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
